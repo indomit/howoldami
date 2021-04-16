@@ -69,6 +69,7 @@
           signoutButton.onclick = handleSignoutClick;
         }, function(error) {
           setMessage("Sorry, something wrong happened...");
+          console.log(error);
         });
       }
 
