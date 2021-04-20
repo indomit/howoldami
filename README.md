@@ -1,5 +1,5 @@
 # howoldami
-Web app for answer to user's question: "How old am I?"
+Web app for answering to user's question: "How old am I?"
 
 Application written in javascript.
 
